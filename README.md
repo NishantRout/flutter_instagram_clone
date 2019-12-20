@@ -1,6 +1,6 @@
-# flutter_ecomapp
+# flutter_insta_clone
 
-Ecommerce flutter app
+Flutter instagram clone
 
 ## Getting Started
 
